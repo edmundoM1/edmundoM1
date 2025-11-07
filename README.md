@@ -14,7 +14,6 @@ I am a student of the Technical Degree in Programming at the University of Belgr
   - HTML
   - CSS
   - MySQL
-  - Bash
   - PHP
   - JavaScript
 <br>
