@@ -6,7 +6,7 @@
 
 <br><br>
 
-I am a student of the Technical Degree in Programming at the University of Belgrano. I am expanding my knowledge in software development, exploring both front-end and back-end, and always looking to learn and build something new, productive, innovative, and creative.
+I specialize in developing high-impact digital solutions rooted in strong software engineering principles. My work is dedicated to creating secure, productive applications by combining technical mastery with a continuous search for creative and efficient ways to leverage modern technology.
 
 - 🌱 I’m currently learning and working with...
   - Python
